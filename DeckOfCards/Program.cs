@@ -36,6 +36,8 @@ namespace DeckOfCards
                     i++;
                     Console.WriteLine(i);
                 }
+                
+
             }
 
             Console.WriteLine(player.GetHand() + "\n" + player2.GetHand());
